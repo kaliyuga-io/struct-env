@@ -1,6 +1,7 @@
 .{
-    .name = "struct-env",
+    .name = .struct_env,
     .version = "0.3.0",
+    .fingerprint = 0x1ec612b153ddaa16,
     .dependencies = .{},
     .paths = .{""},
 }
